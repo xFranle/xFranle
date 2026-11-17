@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:111111,100:0d0d0d&height=120&section=header&text=&animation=fadeIn" />
 
   <h2>$ Franle</h2>
-  <h4>Security Researcher & Founder @ Secle Solutions | AI-Driven Security · Web3</h4>
+  <h4>Security Researcher & Founder @ Secle | AI-Driven Security · Web3</h4>
 
   <br/><br/>
 
@@ -27,7 +27,7 @@
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║                                ./franle --info                                    ║
 ╠═══════════════════════════════════════════════════════════════════════════════════╣
-║  Role     →  Security Researcher & Founder @ Secle Solutions                      ║
+║  Role     →  Security Researcher & Founder @ Secle                                ║
 ║  Focus    →  AI-Driven Security · Web3 · DevSecOps · GRC                          ║
 ║  Building →  AI tools for contextual code analysis & risk inference (LLMs + HITL) ║
 ║  Stack    →  Python · Rust · Solidity                                             ║
@@ -67,7 +67,7 @@ Companies, devs, or just someone who wants to talk security — reach out.
 
 <br/>
 
-[![Company](https://img.shields.io/badge/🛡️_Secle_Solutions-seclesolutions.com-ffffff?style=for-the-badge&labelColor=0a1a2a&color=1a1a1a)](https://seclesolutions.com)
+[![Company](https://img.shields.io/badge/🛡️_Secle-seclesolutions.com-ffffff?style=for-the-badge&labelColor=0a1a2a&color=1a1a1a)](https://seclesolutions.com)
 [![Blog](https://img.shields.io/badge/📖_Blog-secle.info-ffffff?style=for-the-badge&labelColor=0a1a2a&color=1a1a1a)](https://secle.info)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter%2FX-@_franle-ffffff?style=for-the-badge&labelColor=0a1a2a&color=1a1a1a)](https://x.com/_franle)
 
